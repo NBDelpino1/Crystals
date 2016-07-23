@@ -1,6 +1,6 @@
 $(document).ready(function(){
             
-            var min = 20; // generate starting random number 
+            var min = 20; // generate target number 
             var max = 120;
             var startNumber = 0;
             var rand = Math.floor(Math.random() * (max - min + 1) + min);
@@ -11,11 +11,12 @@ $(document).ready(function(){
             console.log(rand);
             console.log(startNumber);
 
-            $( "#number" ).html(startNumber); // generate target number
+            $( "#number" ).html(startNumber); 
 
             
+           
 
-
+            // generate random numbers for each crystal//
 
             $("#redCrystal").click(function(){ // generate red crystal number
             var min = 1; 
@@ -51,10 +52,10 @@ $(document).ready(function(){
             var rand = Math.floor(Math.random() * (max - min + 1) + min);
             var greenNumber = rand;
             $( "#greenCrystal" ).html(greenNumber);
+
             });
+           
 
-
-
-        });    
-
+            });
+      
       
