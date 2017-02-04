@@ -1,4 +1,4 @@
-##### I keep this around to remind me of how far I have come.
+##### I keep this around to remind me of how far I have come and that you must celebrate the small victories. #The Struggle
 ##### It is still in it's original form.....she ain't the prettiest app and doesn't work LOL
 
 
