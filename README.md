@@ -7,5 +7,6 @@
 
 ##### Got bored and felt like why not. Revamped Design using Materialize CSS Framework. I will prob come back if I get bored again sometime.
 
-![image](https://cloud.githubusercontent.com/assets/18251657/24835379/b7d6887e-1cce-11e7-8785-219059d01778.png)
+![image](https://cloud.githubusercontent.com/assets/18251657/24835429/3ad28fba-1cd0-11e7-95f4-3641159a14ec.png)
+
 
