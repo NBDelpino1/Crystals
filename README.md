@@ -3,3 +3,9 @@
 
 
 ![image](https://cloud.githubusercontent.com/assets/18251657/22615999/dbd7ba02-ea71-11e6-8727-b1f060254ae8.png)
+
+
+##### Got bored and felt like why not. Revamped Design using Materialize CSS Framework. I will prob come back if I get bored again sometime.
+
+![image](https://cloud.githubusercontent.com/assets/18251657/24835379/b7d6887e-1cce-11e7-8785-219059d01778.png)
+
