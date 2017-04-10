@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f570853e-c8e8-48f9-bc77-d5c5fa94a086" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/revampedVersion/bored.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/revampedVersion/revampedAssets/js/revamped.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bored/bored.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bored/boredAssets/js/app.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bored/boredAssets/css/bored.css" afterPath="$PROJECT_DIR$/revampedVersion/revampedAssets/css/revamped.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bored/boredAssets/img/blue.png" afterPath="$PROJECT_DIR$/revampedVersion/revampedAssets/img/blue.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bored/boredAssets/img/purple.png" afterPath="$PROJECT_DIR$/revampedVersion/revampedAssets/img/purple.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bored/boredAssets/img/red.png" afterPath="$PROJECT_DIR$/revampedVersion/revampedAssets/img/red.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bored/boredAssets/img/yellow.png" afterPath="$PROJECT_DIR$/revampedVersion/revampedAssets/img/yellow.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/revampedVersion/bored.html" afterPath="$PROJECT_DIR$/revampedVersion/bored.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/revampedVersion/revampedAssets/css/revamped.css" afterPath="$PROJECT_DIR$/revampedVersion/revampedAssets/css/revamped.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/revampedVersion/revampedAssets/js/revamped.js" afterPath="$PROJECT_DIR$/revampedVersion/revampedAssets/js/revamped.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,9 +23,32 @@
       <file leaf-file-name="bored.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/revampedVersion/bored.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="80" column="15" lean-forward="false" selection-start-line="80" selection-start-column="15" selection-end-line="80" selection-end-column="98" />
+            <state relative-caret-position="45">
+              <caret line="39" column="51" lean-forward="false" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="51" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="revamped.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/revampedVersion/revampedAssets/css/revamped.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="315">
+                <caret line="21" column="79" lean-forward="false" selection-start-line="21" selection-start-column="79" selection-end-line="21" selection-end-column="79" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -40,34 +56,9 @@
       <file leaf-file-name="revamped.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/revampedVersion/revampedAssets/js/revamped.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1620">
-              <caret line="108" column="3" lean-forward="true" selection-start-line="108" selection-start-column="3" selection-end-line="108" selection-end-column="15" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="revamped.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/revampedVersion/revampedAssets/css/revamped.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="32" lean-forward="false" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+            <state relative-caret-position="345">
+              <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-                <folding />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -95,10 +86,10 @@
         <option value="$PROJECT_DIR$/bored/boredAssets/js/app.js" />
         <option value="$PROJECT_DIR$/bored/boredAssets/css/bored.css" />
         <option value="$PROJECT_DIR$/bored/bored.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/revampedVersion/bored.html" />
         <option value="$PROJECT_DIR$/revampedVersion/revampedAssets/js/revamped.js" />
         <option value="$PROJECT_DIR$/revampedVersion/revampedAssets/css/revamped.css" />
-        <option value="$PROJECT_DIR$/revampedVersion/bored.html" />
-        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -193,6 +184,10 @@
               <option name="myItemId" value="revampedAssets" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -231,6 +226,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/revampedVersion/revampedAssets/img" />
       <recent name="$PROJECT_DIR$/bored/boredAssets/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -300,12 +296,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491716213232</updated>
-      <workItem from="1491716214686" duration="14463000" />
+      <workItem from="1491716214686" duration="18775000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14463000" />
+    <option name="totallyTimeSpent" value="18775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -374,40 +370,38 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/revampedVersion/revampedAssets/css/revamped.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="32" lean-forward="false" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="21" column="79" lean-forward="false" selection-start-line="21" selection-start-column="79" selection-end-line="21" selection-end-column="79" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/revampedVersion/revampedAssets/js/revamped.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="108" column="3" lean-forward="true" selection-start-line="108" selection-start-column="3" selection-end-line="108" selection-end-column="15" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="345">
+          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/revampedVersion/bored.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="80" column="15" lean-forward="false" selection-start-line="80" selection-start-column="15" selection-end-line="80" selection-end-column="98" />
+        <state relative-caret-position="45">
+          <caret line="39" column="51" lean-forward="false" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/revampedVersion/revampedAssets/css/revamped.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

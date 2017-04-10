@@ -25,6 +25,7 @@ main {
     padding-left:0;
     padding-right:0;
 }
+
 .crystalButton:hover {
     background-color: #fff;
 }
@@ -49,6 +50,34 @@ main {
 }
 
 
+.modal .modal-content {
+    background-color: #fff;
+}
+
+.modal .modal-footer {
+    background-color: #f1f0f0;
+}
+
+.modalNum {
+    color: #ff9800;
+}
+
+
+.resultsWrapper {
+    display: none;
+}
+
+@media screen and (max-width: 480px) {
+    h1 {
+        font-size:36px;
+    }
+
+    #red,#blue, #purple, #yellow{
+        width:30%;
+    }
+
+}
+
 /*This pertains to the social media links at the bottom of the page that are currently commented out DO NOT DELETE CONTENT INSIDE HERE*/
 /*.inline-list-item {*/
 /*display: inline;*/
@@ -67,3 +96,6 @@ main {
 /*color: #fff;*/
 /*}*/
 /*This pertains to the social media links at the bottom of the page that are currently commented out DO NOT DELETE CONTENT INSIDE HERE*/
+
+
+

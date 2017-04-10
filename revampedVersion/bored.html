@@ -30,11 +30,11 @@
         </div>
 
         <!-- Start Game Button -->
-        <!--<div class="row center-align">-->
-            <!--<div class="col s12">-->
-                <!--<a class="waves-effect waves-light btn-large" id="startButton">Start Game</a>-->
-            <!--</div>-->
-        <!--</div>-->
+        <div class="row center-align">
+            <div class="col s12">
+                <a class="waves-effect waves-light btn-large" id="startButton">Start Game</a>
+            </div>
+        </div>
 
         <!-- Game Stats Display -->
         <div class="row center-align resultsWrapper">
@@ -67,18 +67,41 @@
         </div>
     </main>
 
-    <!-- Modal Trigger -->
+    <!-- Instructions Modal Trigger -->
     <a class="waves-effect waves-light btn z-depth-0" id="instructions-btn" href="#modal1">Click here for instructions</a>
 
-    <!-- Modal Structure -->
+    <!-- Instructions Modal -->
     <div id="modal1" class="modal">
         <div class="modal-content">
+            <img src="revampedAssets/img/logo.png" class="responsive-img">
             <h4>Instructions</h4>
             <p>1. You will be given a random number at the start of the game.</p>
             <p>2. There are four crystals below. By clicking on a crystal you will add a specific amount of points to your total score.</p>
             <p>3. You win the game by matching your total score to random number, you loose the game if your total score goes above the random number.</p>
             <p>4. The value of each crystal is hidden from you until you click on it.</p>
             <p>5. Each time when the game starts, the game will change the values of each crystal.</p>
+        </div>
+        <div class="modal-footer">
+            <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">OK</a>
+        </div>
+    </div>
+
+    <!-- Win Alert Modal -->
+    <div id="modal3" class="modal">
+        <div class="modal-content center-align">
+            <img src="revampedAssets/img/logo.png" class="responsive-img">
+            <h5>Congratulations. You Won!</h5>
+        </div>
+        <div class="modal-footer">
+            <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">OK</a>
+        </div>
+    </div>
+
+     <!-- Loose Alert Modal -->
+    <div id="modal2" class="modal">
+        <div class="modal-content center-align">
+            <img src="revampedAssets/img/logo.png" class="responsive-img">
+            <h5>Out of luck. The winning number was <span class="modalNum" id="magicNum"></span>. You got <span class="modalNum" id="yourNum"></span>.</h5>
         </div>
         <div class="modal-footer">
             <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">OK</a>
@@ -104,11 +127,7 @@
 
 <!-- TODO: Temp script for modal, will move to js file-->
 <script>
-    $(document).ready(function(){
 
-        $('.modal').modal();
-
-    });
 </script>
 
 </body>
