@@ -40,28 +40,28 @@
         <div class="row center-align resultsWrapper">
             <div class="col s6">
                <div class="displayArea">
-                   <h5>Target Score</h5>
-                   <h4  id="targetNum"></h4>
+                   <h6 class="display-heading">Target Score</h6>
+                   <h4  id="targetNum" class="display-result"></h4>
                </div>
             </div>
             <div class="col s6">
                <div class="displayArea">
-                   <h5>Your Score</h5>
-                   <h4 id="yourScore"></h4>
+                   <h6 class="display-heading">Your Score</h6>
+                   <h4 id="yourScore" class="display-result"></h4>
                </div>
             </div>
         </div>
         <div class="row center-align resultsWrapper">
             <div class="col s6">
                 <div class="displayArea">
-                    <h5>Num Win</h5>
-                    <h4  id="numWin"></h4>
+                    <h6 class="display-heading">Num Win</h6>
+                    <h4  id="numWin" class="display-result"></h4>
                 </div>
             </div>
             <div class="col s6">
                <div class="displayArea">
-                   <h5>Num Loss</h5>
-                   <h4 id="numLoss"></h4>
+                   <h6 class="display-heading">Num Loss</h6>
+                   <h4 id="numLoss" class="display-result"></h4>
                </div>
             </div>
         </div>
@@ -76,7 +76,7 @@
             <img src="assets/img/logo.png" class="responsive-img">
             <h4>Instructions</h4>
             <p>1. You will be given a random number at the start of the game.</p>
-            <p>2. There are four crystals below. By clicking on a crystal you will add a specific amount of points to your total score.</p>
+            <p>2. There are four crystals uptop. By clicking on a crystal you will add a specific amount of points to your total score.</p>
             <p>3. You win the game by matching your total score to random number, you loose the game if your total score goes above the random number.</p>
             <p>4. The value of each crystal is hidden from you until you click on it.</p>
             <p>5. Each time when the game starts, the game will change the values of each crystal.</p>
@@ -108,17 +108,12 @@
         </div>
     </div>
 
-    <!--<footer>-->
-        <!--<div class="row center-align">-->
-            <!--<div class="col s12">-->
-                <!--<ul class="inline-list">-->
-                    <!--<li class="inline-list-item"><a class="inline-list-item-link"href=""><i class="fa fa-github" aria-hidden="true"></i></a></li>-->
-                    <!--<li class="inline-list-item"><a class="inline-list-item-link"href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>-->
-                    <!--<li class="inline-list-item"><a class="inline-list-item-link"href=""><i class="fa fa-file-text" aria-hidden="true"></i></a></li>-->
-                <!--</ul>-->
-            <!--</div>-->
-        <!--</div>-->
-    <!--</footer>-->
+
+    <audio id="button-sound-effect">
+        <source src="assets/audio/button-soundeffect.mp3" type="audio/mpeg">
+    </audio>
+
+
 
 <script src="https://code.jquery.com/jquery-latest.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js"></script>

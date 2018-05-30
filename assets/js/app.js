@@ -130,9 +130,13 @@ $(document).ready(function(){
 // Starts the Game the First Time.
     startGame();
 
+
+
 // Gets and add values to the crystals clicked
     $("#blue").on("click", function(){
+
         addValues(crystals.blue);
+
     });
 
     $("#red").on("click", function(){
@@ -149,7 +153,6 @@ $(document).ready(function(){
 
 
 });
-
 
 
 
